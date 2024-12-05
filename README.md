@@ -1,1 +1,1 @@
-El documento presenta un proyecto titulado "Optimización de Rutas para Call Centers", enfocado en mejorar la eficiencia y calidad del tráfico SIP mediante el uso de herramientas de inteligencia artificial generativa, como ChatGPT y DALL·E.
+
